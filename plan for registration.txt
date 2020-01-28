@@ -1,0 +1,9 @@
+1. complete the registration process.
+2. integrate mail .(register successfully and mail send)
+3. login
+4. make profile page.
+5. fetch profile data on profile page. 
+6. Reset Password
+7. Forgot Password(with mail)
+
+All complete
